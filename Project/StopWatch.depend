@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640394008 source:c:\users\admin\documents\dev\cpp\timer\main.cpp
+	<iostream>
+	<curses.h>
+	<iomanip>
+	<unistd.h>
+
